@@ -1,0 +1,80 @@
+.center{
+    text-align: center;
+    margin: auto;
+    margin-top:-15px;
+    background-color: rgb(162, 162, 243);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.lined{
+    display: flex;
+}
+
+
+
+p{
+    font-size: 20px;
+}
+span{
+    color: blue;
+}
+
+
+.explicatiom{
+    background-color: bisque;
+    padding: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+a{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 7px;
+    background-color: rgb(80, 80, 206);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+    
+a:hover{
+    background-color: rgb(188, 188, 235);
+}
+
+
+
+
+form{
+    margin: auto;
+    text-align: center;
+    background-color: bisque;
+    display: grid;
+    padding: 20px;
+    width: 700px;
+    border-radius: 20px;
+    
+    
+   
+}
+
+form textarea{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: solid black;
+    border-radius: 20px;
+    opacity: 1.0;
+    font-size: 20px;
+    
+}
+
+.prop-image{
+
+    background-image: url(../images/br-br-patapim.jpg);
+    background-size: cover;
+    opacity: 0.8;
+
+}
